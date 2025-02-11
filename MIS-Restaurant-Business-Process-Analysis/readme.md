@@ -8,7 +8,6 @@ By leveraging **Odoo ERP** for **Order-to-Cash** and **Homebase HRM** for **Hire
 > **Note:** Some links in the documentation might not work as the project was created using the **free versions** of both **Odoo** and **Homebase**. Free-tier access limitations may affect link availability over time.  
 
 ---
-
 ## 📌 Steps Followed in the Project  
 
 ### **Phase 1: Business Process Analysis** (Understanding the Business & Operations)  
@@ -28,7 +27,6 @@ By leveraging **Odoo ERP** for **Order-to-Cash** and **Homebase HRM** for **Hire
 - Identified **MIS needs per process** to determine where automation is required.  
 
 ---
-
 ### **Phase 2: Database Design** (Structuring Data for Digital Transformation)  
 ✅ **Step 4:** Identify Key Entities & Data Relationships  
 - Defined core entities: **Employees, Customers, Orders, Transactions, Products, Suppliers, etc.**  
@@ -39,7 +37,6 @@ By leveraging **Odoo ERP** for **Order-to-Cash** and **Homebase HRM** for **Hire
 - Ensured **normalization** for data consistency and integrity.  
 
 ---
-
 ### **Phase 3: MIS Selection & Implementation Strategy**  
 ✅ **Step 6:** Selection of Management Information Systems (MIS)  
 - Evaluated **Odoo ERP** for **Order-to-Cash** process automation.  
@@ -76,33 +73,13 @@ By leveraging **Odoo ERP** for **Order-to-Cash** and **Homebase HRM** for **Hire
 - Prepared **Final Presentation** summarizing business problems, solutions, and results.  
 
 ---
-
-## 📊 Results & Insights  
-✅ **Digitized restaurant operations** using Odoo & Homebase.  
-✅ **Automated order processing, payments, and reporting**.  
-✅ **Optimized workforce management** with digital scheduling & payroll.  
-✅ **Improved data-driven decision-making** through structured reporting.  
-
----
-
 ## 📂 Project Files  
 - **MIS_Proposal.pdf** → Business process analysis, database design, and MIS selection.  
 - **Demo_Documentation.pdf** → Step-by-step execution of Odoo and Homebase implementation.  
 - **Project_Presentation.pdf** → Key findings, solutions, and demo overview.  
 
 ---
-
 ## 🚀 How to Use This Repository  
 1️⃣ Review **MIS_Proposal.pdf** for business process analysis and database design.  
 2️⃣ Explore **Demo_Documentation.pdf** for a step-by-step implementation guide.  
 3️⃣ Check **Project_Presentation.pdf** for a high-level project summary.  
-
-
-
----
-
-## 📜 License  
-This project is for educational and portfolio purposes.  
-
----
-
