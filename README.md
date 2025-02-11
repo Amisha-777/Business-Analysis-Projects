@@ -5,3 +5,6 @@ This repository is created for business analysis projects, case studies, and dat
 # Projects Uploaded
 
 
+| S.N. | Project                 | Description   |
+|------|--------------------------|-------------------------------------------|
+| 1    | MIS-Restaurant-Business-Process-Analysis  | A business process analysis and digital transformation project for a restaurant using Odoo and Homebase to optimize Order-to-Cash and Hire-to-Retire processes. |
