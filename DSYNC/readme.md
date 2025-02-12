@@ -1,4 +1,4 @@
-# Dsync – An Ultimate Jira Plugin
+# Dsync – A Jira Plugin
 
 This repository contains the project documentation and artifacts for **Dsync – An Ultimate Jira Plugin** – a conceptual Jira plugin planned to develop as part of an academic assignment at Lambton College. The project focuses on enhancing real-time collaboration and automating project workflows using Agile methodologies.
 
