@@ -1,5 +1,5 @@
 # **SecureBank Business Analysis Case Study**  
-📌 **Stakeholder Identification, Stakeholder Matrix & Engagement Strategy**  
+**Stakeholder Identification, Stakeholder Matrix & Engagement Strategy**  
 
 ## **📌 Project Overview**  
 This project is part of a **business analysis case study** focused on SecureBank, a mid-sized financial institution implementing a **Mobile Check Deposit Feature** within its banking app. The study involves analyzing key stakeholders, their influence, and engagement strategies to ensure successful adoption and implementation.  
