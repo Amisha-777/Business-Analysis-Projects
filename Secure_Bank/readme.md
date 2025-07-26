@@ -67,9 +67,21 @@ SecureBank aims to:
   - Contributes to $20M Digital Transformation budget
   - Supports $500M revenue impact potential
   - Strengthens regulatory readiness and customer adoption
- 
+
 ---
- 
+
+## **📂 Repository Files Overview**  
+| File Name             | Description            |
+|--------------------------|-------------------|
+| `SecureBank Case Study.pdf`|  Provides project background, objectives, challenges, and performance KPIs.   |
+| `Stakeholder Identification, Stakeholder Matrix and Engagement Strategy.pdf`| Maps stakeholders, their influence, and outlines tailored engagement plans.         |
+| `Stakeholders Benefits.pdf`| Summarizes tangible and intangible benefits aligned with strategic goals.   |
+| `Stakeholders Risks Matrix & Heatmap.pdf`| Visualizes stakeholder-related risks and mitigation strategies.       |
+| `The Business Case Artifacts.pdf`   | Complete business case including cost-benefit analysis, option analysis and recommendations. |
+
+---
+
+
 ## **Conclusion & Learnings**
 
 This academic project was a valuable opportunity to apply core business analysis concepts in a practical context. From stakeholder identification to risk assessment and cost-benefit analysis, each step helped deepen my understanding of how structured analysis supports successful project outcomes.
