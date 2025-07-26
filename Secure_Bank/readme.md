@@ -90,4 +90,5 @@ It also highlighted areas for continued learning and improvement—particularly 
 
 This case study strengthened both my technical and strategic thinking as an aspiring Business Analyst. Suggestions and feedback for improvement are always welcome.
 
+---
 
