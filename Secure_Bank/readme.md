@@ -68,7 +68,9 @@ SecureBank aims to:
   - Supports $500M revenue impact potential
   - Strengthens regulatory readiness and customer adoption
  
-### **6️⃣ Conclusion & Learnings**
+---
+ 
+## **Conclusion & Learnings**
 
 This academic project was a valuable opportunity to apply core business analysis concepts in a practical context. From stakeholder identification to risk assessment and cost-benefit analysis, each step helped deepen my understanding of how structured analysis supports successful project outcomes.
 
