@@ -32,7 +32,7 @@ SecureBank aims to:
 - Defined **communication methods and frequency** for different stakeholder groups.  
 - Ensured alignment with **business goals, regulatory compliance, and customer adoption strategies**.  
 
-### **4. Stakeholder Risk Matrix & Heatmap**
+### **4️⃣ Stakeholder Risk Matrix & Heatmap**
 - **Technique:** *Risk Analysis and Management (BABOK 10.24)*
 - Evaluated risks specific to each stakeholder group (e.g., IT integration risks, compliance gaps, staff resistance).
 - Assigned:
@@ -42,9 +42,9 @@ SecureBank aims to:
   - **Risk Owners**
 - Visualized using a **Risk Heatmap** to prioritize action and monitor risk exposure across roles and departments.
 
-## **5. Cost & Benefit Analysis**
+### **5️⃣ Cost & Benefit Analysis**
 
-### 📈 Tangible Benefits (Quantified)
+#### 📈 Tangible Benefits (Quantified)
 
 | Benefit Area             | Target Value | Actual Value | Status            |
 |--------------------------|--------------|--------------|-------------------|
@@ -53,14 +53,14 @@ SecureBank aims to:
 | Branch Workload Reduction| 20%          | 18%          | Nearly Met        |
 | Digital Revenue Growth   | $5M/year     | $4.8M/year   | On Track          |
 
-### 🌟 Intangible Benefits (Strategic)
+#### 🌟 Intangible Benefits (Strategic)
 
 - **Improved Customer Experience:** 24/7 access to deposits boosts satisfaction and loyalty.
 - **Innovation Leadership:** Positions SecureBank as a forward-thinking institution.
 - **Stronger Brand Trust:** Fewer fraud incidents and faster transactions enhance reputation.
 - **Employee Empowerment:** Reduces repetitive manual tasks, improving morale and efficiency.
 
-### 📊 Return on Investment (ROI)
+#### 📊 Return on Investment (ROI)
 
 - **Break-Even Point:** Expected within **2–3 years** of full rollout
 - **Alignment with Strategic Goals:**
