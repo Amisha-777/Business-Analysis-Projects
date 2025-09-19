@@ -1,4 +1,6 @@
-# 📂 Case Study: Enhancing HR Compliance and Employee Data Management – KYE Digitalization  
+# Enhancing HR Compliance and Employee Data Management – KYE Digitalization  
+
+## 📂 Case Study
 
 ## 📌 Background  
 The Know Your Employee (KYE) process was a critical mechanism for maintaining employee records, including personal details, qualifications, employment history, and compliance declarations. Traditionally, this process was **manual and paper-based**. Employees completed forms via emailed copies or by printing, filling, and submitting hard copies, which were then stored in physical personnel files.  
