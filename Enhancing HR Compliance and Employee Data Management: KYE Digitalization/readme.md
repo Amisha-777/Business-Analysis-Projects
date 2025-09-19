@@ -3,12 +3,7 @@
 ## 📌 Background  
 The Know Your Employee (KYE) process was a critical mechanism for maintaining employee records, including personal details, qualifications, employment history, and compliance declarations. Traditionally, this process was **manual and paper-based**. Employees completed forms via emailed copies or by printing, filling, and submitting hard copies, which were then stored in physical personnel files.  
 
-As the workforce expanded, the manual approach created significant challenges:  
-- **Fragmented Records:** Information was scattered across files with no centralized repository.  
-- **Operational Inefficiency:** HR staff spent excessive time filing, retrieving, and verifying records.  
-- **Error-Prone Submissions:** Missing or inconsistent data were common due to lack of validation.  
-- **Compliance Risk:** Audit preparation required manual searches, causing delays.  
-- **Scalability Issues:** Increasing headcount amplified inefficiencies and risks.  
+As the workforce expanded, the manual approach led to fragmented records, operational inefficiencies, error-prone submissions, compliance risks, and scalability issues, as HR staff struggled with scattered files, time-consuming processes, and the lack of data validation and centralized systems.
 
 ## 📌 Business Challenge  
 The manual KYE process was **inefficient, error-prone, and non-scalable**, creating compliance risks and operational bottlenecks. A **digitalized solution** was required to centralize records, improve accuracy, and enhance compliance readiness while reducing the administrative workload for HR.  
