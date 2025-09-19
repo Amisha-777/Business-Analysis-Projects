@@ -2,6 +2,7 @@
 
 ## 📌 Background  
 The Know Your Employee (KYE) process was a critical mechanism for maintaining employee records, including personal details, qualifications, employment history, and compliance declarations. Traditionally, this process was **manual and paper-based**. Employees completed forms via emailed copies or by printing, filling, and submitting hard copies, which were then stored in physical personnel files.  
+
 As the workforce expanded, the manual approach created significant challenges:  
 - **Fragmented Records:** Information was scattered across files with no centralized repository.  
 - **Operational Inefficiency:** HR staff spent excessive time filing, retrieving, and verifying records.  
