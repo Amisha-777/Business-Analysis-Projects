@@ -1,23 +1,19 @@
 # Enhancing HR Compliance and Employee Data Management – KYE Digitalization  
 
-## 📂 Case Study
-
 ## 📌 Background  
 The Know Your Employee (KYE) process was a critical mechanism for maintaining employee records, including personal details, qualifications, employment history, and compliance declarations. Traditionally, this process was **manual and paper-based**. Employees completed forms via emailed copies or by printing, filling, and submitting hard copies, which were then stored in physical personnel files.  
-
 As the workforce expanded, the manual approach created significant challenges:  
 - **Fragmented Records:** Information was scattered across files with no centralized repository.  
 - **Operational Inefficiency:** HR staff spent excessive time filing, retrieving, and verifying records.  
-- **Error-Prone Submissions:** Missing or inconsistent data was common due to lack of validation.  
+- **Error-Prone Submissions:** Missing or inconsistent data were common due to lack of validation.  
 - **Compliance Risk:** Audit preparation required manual searches, causing delays.  
 - **Scalability Issues:** Increasing headcount amplified inefficiencies and risks.  
 
 ## 📌 Business Challenge  
-The manual KYE process was **inefficient, error-prone, and non-scalable**, creating compliance risks and operational bottlenecks. A **digitalized solution** was required to centralize records, improve accuracy, and enhance compliance readiness while reducing administrative workload for HR.  
+The manual KYE process was **inefficient, error-prone, and non-scalable**, creating compliance risks and operational bottlenecks. A **digitalized solution** was required to centralize records, improve accuracy, and enhance compliance readiness while reducing the administrative workload for HR.  
 
 ## 📌 Solution Approach  
 A structured business analysis initiative was undertaken to digitalize the KYE process. The approach included:  
-
 - **Requirements Definition:** Workshops and interviews identified mandatory fields, validation rules, reporting needs, and compliance requirements.  
 - **Form Standardization:** A digital template was designed with structured sections for Personal Information, Qualifications, Employment History, Emergency Contacts, and Declarations.  
 - **Validation Controls:** Mandatory fields and format checks (e.g., employee ID, email, phone number) improved accuracy and completeness.  
