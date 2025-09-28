@@ -27,11 +27,11 @@ The initiative delivered measurable improvements:
 - **Future Readiness:** The digital KYE platform created a scalable foundation for further HR process automation and HRIS integration.
 
 ## 📌Process Flows 
-AS IS
+### AS IS
 
 <img width="894" height="929" alt="As-Is" src="https://github.com/user-attachments/assets/ee566383-f995-4c37-bc05-4d7462e7929a" />
 
-TO BE
+### TO BE
 
 <img width="995" height="878" alt="To-Be" src="https://github.com/user-attachments/assets/87f4b50d-c0fe-49b4-a9e4-91a217d03da9" />
 
