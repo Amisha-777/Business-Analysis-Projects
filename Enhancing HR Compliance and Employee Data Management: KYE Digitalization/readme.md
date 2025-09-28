@@ -24,7 +24,15 @@ The initiative delivered measurable improvements:
 - **Operational Efficiency:** Record retrieval time decreased from hours to minutes.  
 - **Regulatory Compliance:** Digital records provided faster, more reliable responses to audit requests.  
 - **Resource Optimization:** HR staff spent less time on paperwork and more on strategic programs.  
-- **Future Readiness:** The digital KYE platform created a scalable foundation for further HR process automation and HRIS integration.  
+- **Future Readiness:** The digital KYE platform created a scalable foundation for further HR process automation and HRIS integration.
+
+## 📌Process Flows 
+AS IS
+<img width="894" height="929" alt="As-Is" src="https://github.com/user-attachments/assets/ee566383-f995-4c37-bc05-4d7462e7929a" />
+
+TO BE
+<img width="995" height="878" alt="To-Be" src="https://github.com/user-attachments/assets/87f4b50d-c0fe-49b4-a9e4-91a217d03da9" />
+
 
 ## 📌 Future Enhancements  
 - **Performance Monitoring:** Establish KPIs such as error reduction, form completion rates, and retrieval times to measure ongoing effectiveness.  
