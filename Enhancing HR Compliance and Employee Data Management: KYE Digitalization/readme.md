@@ -33,6 +33,8 @@ AS IS
 TO BE
 <img width="995" height="878" alt="To-Be" src="https://github.com/user-attachments/assets/87f4b50d-c0fe-49b4-a9e4-91a217d03da9" />
 
+## 📌Gap Analysis
+![Gap Analysis](https://github.com/user-attachments/assets/937c0afa-8235-40f3-8bb7-891d4647a4ba)
 
 ## 📌 Future Enhancements  
 - **Performance Monitoring:** Establish KPIs such as error reduction, form completion rates, and retrieval times to measure ongoing effectiveness.  
