@@ -28,9 +28,11 @@ The initiative delivered measurable improvements:
 
 ## 📌Process Flows 
 AS IS
+
 <img width="894" height="929" alt="As-Is" src="https://github.com/user-attachments/assets/ee566383-f995-4c37-bc05-4d7462e7929a" />
 
 TO BE
+
 <img width="995" height="878" alt="To-Be" src="https://github.com/user-attachments/assets/87f4b50d-c0fe-49b4-a9e4-91a217d03da9" />
 
 ## 📌Gap Analysis
