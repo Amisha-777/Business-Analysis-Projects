@@ -1,44 +1,40 @@
-# Enhancing HR Compliance and Employee Data Management – KYE Digitalization  
+# 💼 Enhancing HR Compliance and Employee Data Management – KYE Digitalization  
 
-## 📌 Background  
-The Know Your Employee (KYE) process was a critical mechanism for maintaining employee records, including personal details, qualifications, employment history, and compliance declarations. Traditionally, this process was **manual and paper-based**. Employees completed forms via emailed copies or by printing, filling, and submitting hard copies, which were then stored in physical personnel files.  
+### 📍 Overview
+This case study simulates the end-to-end Business Analysis lifecycle for the digitalization of the Know Your Employee (KYE) process within a banking institution. The project was approached using an **Agile mindset**, focusing on iterative deliverables and stakeholder collaboration.
 
-As the workforce expanded, the manual approach led to fragmented records, operational inefficiencies, error-prone submissions, compliance risks, and scalability issues, as HR staff struggled with scattered files, time-consuming processes, and the lack of data validation and centralized systems.
+## 🎯 Objectives
+- Streamline the manual KYE process to improve accuracy, compliance, and efficiency.
+- Demonstrate the full BA lifecycle — from problem definition to solution visualization.
+- Showcase practical application of BABOK techniques.
 
-## 📌 Business Challenge  
-The manual KYE process was **inefficient, error-prone, and non-scalable**, creating compliance risks and operational bottlenecks. A **digitalized solution** was required to centralize records, improve accuracy, and enhance compliance readiness while reducing the administrative workload for HR.  
+## 🧩 Deliverables
 
-## 📌 Solution Approach  
-A structured business analysis initiative was undertaken to digitalize the KYE process. The approach included:  
-- **Requirements Definition:** Workshops and interviews identified mandatory fields, validation rules, reporting needs, and compliance requirements.  
-- **Form Standardization:** A digital template was designed with structured sections for Personal Information, Qualifications, Employment History, Emergency Contacts, and Declarations.  
-- **Validation Controls:** Mandatory fields and format checks (e.g., employee ID, email, phone number) improved accuracy and completeness.  
-- **Workflow Enablement:** A digital workflow was introduced, enabling employees to submit forms online, HR to review and approve submissions, and records to be stored in a central repository.  
-- **Data Governance:** Data retention policies, duplicate checks, and integration with HRIS and the Document Management System were established.  
-- **Security & Access Control:** Role-based permissions and encryption were implemented to protect sensitive employee information.  
-- **Change Enablement:** Training sessions, quick reference guides, and communications supported adoption among HR staff and employees.  
+| Phase | Artifact | Description |
+|-------|-----------|-------------|
+| 1️⃣ | **Business Case** | Defines problem, objectives, and outcomes. |
+| 2️⃣ | **Stakeholder Analysis & RACI** | Identifies roles, influence, and accountability. |
+| 3️⃣ | **Process Flows (As-Is / To-Be)** | Visualizes current vs future workflows. |
+| 4️⃣ | **Requirements Snapshot** | Captures business, functional, and non-functional requirements. |
+| 5️⃣ | **User Stories & Acceptance Criteria** | Translates requirements into Agile stories. |
+| 6️⃣ | **RTM** | Ensures complete traceability from business need to testing. |
+| 7️⃣ | **Wireframes** | Visualizes the digital solution design. |
+| 8️⃣ | **Walkthrough Document** | Reflects on approach, learnings, and results. |
 
-## 📌 Outcomes  
-The initiative delivered measurable improvements:  
-- **Improved Data Quality:** Validation reduced incomplete or incorrect submissions by ~80%.  
-- **Operational Efficiency:** Record retrieval time decreased from hours to minutes.  
-- **Regulatory Compliance:** Digital records provided faster, more reliable responses to audit requests.  
-- **Resource Optimization:** HR staff spent less time on paperwork and more on strategic programs.  
-- **Future Readiness:** The digital KYE platform created a scalable foundation for further HR process automation and HRIS integration.
+## 🧭 Tools Used
+- **Lucidchart / Draw.io** – Process Flows (BPMN)
+- **Excel / Word** – Requirements, RTM, User Stories
+- **Figma / PowerPoint** – Wireframes
 
-## 📌Process Flows 
-### AS IS
+## 🧠 Key Learnings
+- Translating business needs into structured, traceable requirements.
+- Modeling processes to identify automation opportunities.
+- Managing stakeholder expectations through RACI clarity.
+- Applying BABOK-aligned techniques in a real-world simulation.
 
-<img width="894" height="929" alt="As-Is" src="https://github.com/user-attachments/assets/ee566383-f995-4c37-bc05-4d7462e7929a" />
-
-### TO BE
-
-<img width="995" height="878" alt="To-Be" src="https://github.com/user-attachments/assets/87f4b50d-c0fe-49b4-a9e4-91a217d03da9" />
-
-## 📌Gap Analysis
-![Gap Analysis](https://github.com/user-attachments/assets/937c0afa-8235-40f3-8bb7-891d4647a4ba)
-
-## 📌 Future Enhancements  
+## 📈 Future Enhancements
+- Add Use Case Diagram and UAT Plan.
 - **Performance Monitoring:** Establish KPIs such as error reduction, form completion rates, and retrieval times to measure ongoing effectiveness.  
 - **Automated Reporting:** Develop compliance dashboards for HR leadership to track completion trends.  
-- **Process Expansion:** Extend the digital solution to related HR processes such as onboarding, probation reviews, and exit formalities.  
+- **Process Expansion:** Extend the digital solution to related HR processes such as onboarding, probation reviews, and exit formalities.
+- Simulate stakeholder review meeting notes (Agile Sprint style).
