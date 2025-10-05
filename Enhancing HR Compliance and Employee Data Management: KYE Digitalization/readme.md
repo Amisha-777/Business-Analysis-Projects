@@ -5,7 +5,7 @@ This case study simulates the end-to-end Business Analysis lifecycle for the dig
 
 ## 🎯 Objectives
 - Streamline the manual KYE process to improve accuracy, compliance, and efficiency.
-- Demonstrate the full BA lifecycle — from problem definition to solution visualization.
+- Demonstrate the full BA lifecycle from problem definition to solution visualization.
 - Showcase practical application of BABOK techniques.
 
 ## 🧩 Deliverables
