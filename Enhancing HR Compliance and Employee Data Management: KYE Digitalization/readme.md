@@ -10,7 +10,7 @@ This case study simulates the end-to-end Business Analysis lifecycle for the dig
 
 ## 🧩 Deliverables
 
-| Phase | Artifact | Description |
+| S.N | Artifact | Description |
 |-------|-----------|-------------|
 | 1️⃣ | **Business Case** | Defines problem, objectives, and outcomes. |
 | 2️⃣ | **Stakeholder Analysis & RACI** | Identifies roles, influence, and accountability. |
