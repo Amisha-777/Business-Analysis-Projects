@@ -12,14 +12,16 @@ This case study simulates the end-to-end Business Analysis lifecycle for the dig
 
 | S.N | Artifact | Description |
 |-------|-----------|-------------|
-| 1 | **Business Case** | Defines problem, objectives, and outcomes. |
-| 2 | **Stakeholder Analysis & RACI** | Identifies roles, influence, and accountability. |
-| 3 | **Process Flows (As-Is / To-Be)** | Visualizes current vs future workflows. |
-| 4 | **Requirements Snapshot** | Captures business, functional, and non-functional requirements. |
-| 5 | **User Stories & Acceptance Criteria** | Translates requirements into Agile stories. |
-| 6 | **RTM** | Ensures complete traceability from business need to testing. |
-| 7 | **Wireframes** | Visualizes the digital solution design. |
-| 8 | **Walkthrough Document** | Reflects on approach, learnings, and results. |
+| 1 | **Business Case** | Defines the background, business challenge, objectives, and expected outcomes of the KYE Digitalization project. |
+| 2 | **Stakeholder Analysis** | Identifies roles, influence, interest, and engagement strategies to ensure collaboration |
+| 3 | **RACI Matrix** | Defines clear roles and responsibilities across HR, Compliance, IT, and supporting teams for accountability and governance. |
+| 4 | **Process Flows (As-Is / To-Be)** | Illustrates the end-to-end manual (As-Is) and digital (To-Be) KYE workflows using BPMN diagrams.|
+| 5 | **Gap Analysis** | Highlights inefficiencies in the current process, defines an action plan, and visualizes the transition to the desired state.|
+| 6 | **Requirements Snapshot** | Captures business, functional, and non-functional requirements. |
+| 7 | **User Stories & Acceptance Criteria** | Translates requirements into Agile stories. |
+| 8 | **RTM** | Ensures complete traceability from business need to testing. |
+| 9 | **Wireframe** | Provides low-fidelity mockups of the digital KYE form and HR review screen to visualize the solution design.|
+| 10 | **Walkthrough Document** | Summarizes project activities, rationale, learnings, and showcases visuals from the end-to-end BA process. |
 
 ## 🧭 Tools Used
 - **Lucidchart** – Process Flows (BPMN)
