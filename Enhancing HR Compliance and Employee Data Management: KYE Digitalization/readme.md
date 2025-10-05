@@ -22,9 +22,9 @@ This case study simulates the end-to-end Business Analysis lifecycle for the dig
 | 8 | **Walkthrough Document** | Reflects on approach, learnings, and results. |
 
 ## 🧭 Tools Used
-- **Lucidchart / Draw.io** – Process Flows (BPMN)
-- **Excel / Word** – Requirements, RTM, User Stories
-- **Figma / PowerPoint** – Wireframes
+- **Lucidchart** – Process Flows (BPMN)
+- **Word/ PowerPoint**** – Requirements, RTM, User Stories
+- **Figma** – Wireframes
 
 ## 🧠 Key Learnings
 - Translating business needs into structured, traceable requirements.
