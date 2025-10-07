@@ -6,6 +6,10 @@ Under **Helen Smitherson-Roy** and her son **Ryan Roy**, the firm launched a **B
 
 This project demonstrates the **complete BA lifecycle**, from business case definition and requirements elicitation to RTM mapping, KPI development, change management, and closure reporting.
 
+It was a **group-based simulation project**, where students acted as professional Business Analysts within a consulting team. The **Professor served as both client and supervisor**, conducting mock stakeholder meetings, providing requirements, and reviewing deliverables.  
+
+Each student **rotated as Project Lead weekly**, taking turns to manage communications, facilitate meetings, and ensure progress, mirroring real-world consulting dynamics and collaborative leadership.
+
 ## 🧭 Project Objectives
 - Modernize Smith-Cap’s client and advisor experience through **digital transformation**  
 - Transition from **paper-based to paperless** client statements  
