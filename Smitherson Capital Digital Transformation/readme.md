@@ -85,6 +85,16 @@ Each student **rotated as Project Lead weekly**, taking turns to manage communic
 - Launch a **client mobile app** for personalized investment tracking  
 - Establish a **data governance framework** for continuous improvement  
 
+# 👥 Project Team
+**Group 1 – Lambton College (BAM 3135 Capstone Project)**  
+- Amisha Shrestha
+- Pramila Poudel
+- Emmanuel Amoah
+- Prabesh Rai
+- Michael Ajeboriogbon
+
+Leadership roles rotated weekly across team members to simulate a real consulting environment
+
 ## 🏁 Conclusion
 The **Smitherson Capital Digital Transformation Project** represents a milestone in modernizing a 138-year-old financial institution.  
 By applying **BABOK principles**, emphasizing **data-driven decisions**, and fostering **collaborative governance**, the project achieved measurable transformation and established a scalable model for national growth.
