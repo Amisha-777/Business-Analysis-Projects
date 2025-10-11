@@ -1,4 +1,4 @@
-# 🍽️ Quisine-Analytics-WIL-Project  
+## 🍽️ Quisine-Analytics-WIL-Project  
 *Data-Driven Decision-Making in the Culinary Analytics Industry*  
 
 ## 🎯 Overview  
