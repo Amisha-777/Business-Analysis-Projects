@@ -76,7 +76,7 @@ By leveraging **Odoo ERP** for **Order-to-Cash** and **Homebase HRM** for **Hire
 ## 📂 Project Files  
 - **MIS_Proposal.pdf** → Business process analysis, database design, and MIS selection.  
 - **Demo_Documentation.pdf** → Step-by-step execution of Odoo and Homebase implementation.  
-- **Project_Presentation.pdf** → Key findings, solutions, and demo overview.  
+- **Project_Presentation.pdf** → Key findings, solutions, and demo overview.
 
 ---
 ## 🚀 How to Use This Repository  
