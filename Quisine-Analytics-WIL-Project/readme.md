@@ -55,7 +55,7 @@ The project followed a **hybrid BA × DA framework**, integrating the **BABOK v3
 |---------------|-----------------------------|
 | **Data Analytics** | Power BI • Excel (Pivot, Cleaning, KPI) • SQL (Queries, Joins) |
 | **Visualization & Storytelling** | Power BI Dashboards • Storyboards • Executive Reports |
-| **Collaboration** | Miro • MS Teams • SharePoint • Google Sheets |
+| **Collaboration** | MS Teams • SharePoint • Google Sheets |
 
 ## 💡 Insights & Impact  
 - Identified **10 high-impact ingredients contributing to 65% of total sales**, enabling data-driven menu refinement.  
