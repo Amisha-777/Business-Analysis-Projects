@@ -10,18 +10,18 @@ This 13-week experiential project replicated the role of consultants supporting 
 
 | **Week** | **Theme / Focus** | **Key Deliverables** |
 |-----------|-------------------|----------------------|
-| **2** | *Business Case & Food Festival Revenue Forecasting* | Business Case • Food Festival Report • Presentation |
-| **3** | *CSO Roles, KPIs & Strategic Alignment* | Case Study • KPI Integration Report |
-| **4** | *Menu Performance & Visualization* | Visualization Report • **Menu Performance Dashboard** |
-| **5** | *Data Governance & Ethical Compliance* | Data Governance Plan • Ethical Audit PPT • Customer Confidence Plan |
-| **6** | *Refined Data Model & Ingredient Popularity* | Data Modeling Report • Ingredient Popularity Score • RVA Analysis |
-| **7** | *System Upgrade & Scalability Strategy* | System Upgrade Proposal • Staff Training Module • Data Scalability PPT |
-| **8** | *Lunch Menu Revitalization & Digital Strategy* | Revitalization Plan • Profitability Report • Marketing Strategy PPT |
-| **9** | *Customer Satisfaction & Lifetime Value Analysis* | CLV Enhancement Strategy • Customer Segmentation Report |
-| **10** | *Customer Experience Continuity & Integration* | Communication Plan • CX Continuity Report • Integration Workshop |
-| **11** | *Professional Development & Team Synergy* | Team Synergy Report • Strategy Synthesis • **Quarterly Sales Dashboard** |
-| **12** | *Storyboarding & Data Visualization Storytelling* | Storyboard • Data Visualization Concepts |
-| **13** | *Meal Kit Strategy & Data Privacy Framework* | Strategy Report • Data Privacy Compliance Framework PPT |
+| **2** | Business Case & Food Festival Revenue Forecasting | Business Case • Food Festival Report • Presentation |
+| **3** | CSO Roles, KPIs & Strategic Alignment | Case Study • KPI Integration Report |
+| **4** | Menu Performance & Visualization | Visualization Report • **Menu Performance Dashboard** |
+| **5** | Data Governance & Ethical Compliance | Data Governance Plan • Ethical Audit PPT • Customer Confidence Plan |
+| **6** | Refined Data Model & Ingredient Popularity | Data Modeling Report • Ingredient Popularity Score • RVA Analysis |
+| **7** | System Upgrade & Scalability Strategy | System Upgrade Proposal • Staff Training Module • Data Scalability PPT |
+| **8** | Lunch Menu Revitalization & Digital Strategy | Revitalization Plan • Profitability Report • Marketing Strategy PPT |
+| **9** | Customer Satisfaction & Lifetime Value Analysis | CLV Enhancement Strategy • Customer Segmentation Report |
+| **10** | Customer Experience Continuity & Integration | Communication Plan • CX Continuity Report • Integration Workshop |
+| **11** | Professional Development & Team Synergy | Team Synergy Report • Strategy Synthesis • **Quarterly Sales Dashboard** |
+| **12** | Storyboarding & Data Visualization Storytelling | Storyboard • Data Visualization Concepts |
+| **13** | Meal Kit Strategy & Data Privacy Framework | Strategy Report • Data Privacy Compliance Framework PPT |
 
 ## 📊 Visual Highlights  
 
