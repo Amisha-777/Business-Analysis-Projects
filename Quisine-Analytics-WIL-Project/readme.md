@@ -72,24 +72,7 @@ The project followed a **hybrid BA × DA framework**, integrating the **BABOK v3
 
 ## 🗂️ Folder Structure  
 
-telecom-churn-analysis/
-│
-├── 📁 data/                             # Cleaned and processed datasets used in modeling and visualization
-│   ├── Final_Customer_Data_Canadian_Cities.csv   # Dataset Extracted from kaggle and modified for SQL
-│   ├── Predicted_Churners.csv                     # Churn predictions from Python model
-│   └── Production_Data.xlsx                       # Enhanced dataset for prediction generated from SQL view
-│
-├── 📁 sql/                              # SQL scripts for data extraction, transformation, and EDA
-│   └── Exploratory Data Analysis.sql              # SQL queries for loading, cleaning, and modeling data
-│
-├── 📁 python/                           # Python notebook for churn prediction using machine learning
-│   └── Churn_Prediction.ipynb                   # Random Forest model implementation with prediction outputs
-│
-├── 📁 docs/                             # Project documentation and detailed process explanations
-│   ├── Readme_SQL_EDA.md                         # Describes SQL-based data processing and transformation
-│   └── Readme_Python_ML.md                       # Documents machine learning model pipeline and predictions
-│
-├── README.md                          # Main project overview, Dashboard Public Link, insights, and dashboard usage
+```plaintext
 
 Quisine-Analytics-WIL-Project/
 │
@@ -161,3 +144,4 @@ Quisine-Analytics-WIL-Project/
 │
 └── README.md
 
+```
