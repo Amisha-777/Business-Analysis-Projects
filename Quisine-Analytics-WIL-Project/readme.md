@@ -20,7 +20,7 @@ This 13-week experiential project replicated the role of consultants supporting 
 | **9** | Customer Satisfaction & Lifetime Value Analysis | CLV Enhancement Strategy • Customer Segmentation Report |
 | **10** | Customer Experience Continuity & Integration | Communication Plan • CX Continuity Report • Integration Workshop |
 | **11** | Professional Development & Team Synergy | Team Synergy Report • Strategy Synthesis • **Quarterly Sales Dashboard** |
-| **12** | Storyboarding & Data Visualization Storytelling | Storyboard • Data Visualization Concepts |
+| **12** | Storytelling | Storyboard • Data Visualization Concepts |
 | **13** | Meal Kit Strategy & Data Privacy Framework | Strategy Report • Data Privacy Compliance Framework PPT |
 
 ## 📊 Visual Highlights  
